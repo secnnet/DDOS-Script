@@ -33,12 +33,3 @@ Please use this tool responsibly and with proper authorization. Conducting DDoS 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contributions
-
-Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## Contact
-
-For any inquiries or feedback, please contact [your_email@example.com](mailto:your_email@example.com).
-
