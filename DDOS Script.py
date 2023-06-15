@@ -9,6 +9,7 @@ from socket import *
 from threading import Thread, Lock
 from argparse import ArgumentParser, RawTextHelpFormatter
 
+# Check and install necessary modules
 if os.name == 'posix':
     # Check if pip is installed
     c = os.system('which pip')
