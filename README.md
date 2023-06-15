@@ -1,6 +1,6 @@
-# PyDDoS
+# DDOS Script
 
-PyDDoS is a Python-based tool for conducting Distributed Denial of Service (DDoS) attacks. It provides different attack methods such as SYN flood, HTTP request flood, and slowloris attack.
+DDOS Script is a Python-based tool for conducting Distributed Denial of Service (DDoS) attacks. It provides different attack methods such as SYN flood, HTTP request flood, and slowloris attack.
 
 ## Features
 
@@ -17,9 +17,9 @@ PyDDoS is a Python-based tool for conducting Distributed Denial of Service (DDoS
 
 ## Usage
 
-To launch an attack, run the `pyddos.py` script with the following command-line arguments:
+To launch an attack, run the `DDOS Script.py` script with the following command-line arguments:
 
-python pyddos.py -d <target> -p <port> -T <threads> -Pyslow
+python DDOS Script.py -d <target> -p <port> -T <threads> -Pyslow
 
 
 Replace the `<target>`, `<port>`, and `<threads>` with the appropriate values for your attack. You can choose between the `-Pyslow`, `-Request`, or `-Synflood` options to select the attack type.
